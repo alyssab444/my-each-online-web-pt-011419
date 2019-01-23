@@ -1,3 +1,7 @@
 def my_each(array)
-  while array 
+  coutner=0
+  while counter>0 
+    array 
 end
+
+
