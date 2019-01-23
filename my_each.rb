@@ -4,7 +4,7 @@ def my_each(array)
     yield array[words]
      
     words +=1 
-  end 
+  end  
     
 end
 
