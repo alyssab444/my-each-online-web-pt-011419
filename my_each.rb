@@ -1,7 +1,7 @@
 def my_each(array)
   words=0
   while words>= array.length
-    yield(words)
+    yield array[words]
      words
     counter +=1 
   end 
